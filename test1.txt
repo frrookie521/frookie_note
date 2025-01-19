@@ -1,1 +1,10 @@
 这是我的代码
+git push
+将内容推送
+------------
+本地新建分枝
+% git branch dev2
+拉取远程
+% git branch
+切换到新的分支上
+% git checkout dev1
